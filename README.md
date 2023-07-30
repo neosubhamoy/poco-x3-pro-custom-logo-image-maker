@@ -22,7 +22,7 @@
 2. Any Custom Recovery (TWRP/OrangeFox) is Installed (Optional - if you don't want to flash the recovery flashable zip file)
 
 **⚙️ How To Use:**
-1. Read this detailed [How To Use Guide on XDA Forums](https://forum.xda-developers.com/t/xiaomi-poco-x3-pro.12163/)
+1. Read this detailed [How To Use Guide on XDA Forums](https://forum.xda-developers.com/t/official-tool-guide-custom-logo-image-maker-for-poco-x3-pro-vayu.4610679/)
 
 **⚠️ DISCLAIMER:**
 
