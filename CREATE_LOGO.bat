@@ -1,4 +1,4 @@
-:: Created By neo_subhamoy (Contact me @ https://neosubhamoy.xyz)
+:: Created By neo_subhamoy (Contact me @ https://neosubhamoy.com)
 :: Created By Gokul NC (Contact me @ https://about.me/GokulNC )
 :: Created By Pzqqt (Contact me @ https://t.me/Pzqqt )
 :: WARNING: DO NOT MODIFY THIS SCRIPT UNLESS YOU KNOW WHAT YOU'RE DOING!
