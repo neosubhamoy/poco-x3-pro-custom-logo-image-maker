@@ -2,7 +2,7 @@
 
 ### A simple to use CLI Tool to Create Custom Splash Screen / Boot Logo for your POCO X3 Pro (vayu) device!<br></br>
 [![status](https://img.shields.io/badge/status-active-brightgreen.svg?style=flat)](https://github.com/neosubhamoy/poco-x3-pro-custom-logo-image-maker/)
-[![release verion](https://img.shields.io/badge/release-v1.1.0-yellow.svg?style=flat)](https://github.com/neosubhamoy/poco-x3-pro-custom-logo-image-maker/releases/)
+[![release verion](https://img.shields.io/badge/release-v1.2.0-yellow.svg?style=flat)](https://github.com/neosubhamoy/poco-x3-pro-custom-logo-image-maker/releases/)
 <br></br>
 
 **🌟 Highlights:**
