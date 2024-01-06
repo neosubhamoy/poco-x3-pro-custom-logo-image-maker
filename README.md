@@ -14,7 +14,7 @@
 **✔️ Compatibility:**
 1. DEVICE: POCO X3 Pro (vayu/bhima) - Tested on both Global and Indian variants - <span style='color:#fc4454'>** Don't Use For Other Devices **</span>
 2. ROM: Any Android 11+ AOSP/MIUI based ROM
-3. PLATFORM: Currently this tool only works on Windows (Linux & Android support coming soon...!!)
+3. PLATFORM: Windows, Linux & Android
 4. LANGUAGE: ENG (US)
 
 **⚡ Pre-Requirements:**
